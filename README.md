@@ -1,4 +1,4 @@
-Kripikku is a website where you can put your "Kripik" product on the website and then sell it.
+Kripikku is a website that is built using Laravel as the framework where you can put your "Kripik" product on the website and then sell it.
 
 Web Programming Project (Lecturer)
 Group Members:
