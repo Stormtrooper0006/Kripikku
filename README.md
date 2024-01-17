@@ -1,5 +1,3 @@
-Kripikku is a website that is built using Laravel as the framework where you can put your "Kripik" product on the website and then sell it.
-
 Web Programming Project (Lecturer)
 Group Members:
 1. Tantowi Putra Agung Setiawan - 2440063271
